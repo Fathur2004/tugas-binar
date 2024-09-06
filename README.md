@@ -89,11 +89,7 @@ bilangan desimal:
 
 [5]. 110010 - 101101
 
-110010 (50 dalam desimal)
-
-101101 (45 dalam desimal)
-
-=000101
+= 000101
 
 bilangan Desimal:
 
@@ -103,10 +99,6 @@ bilangan Desimal:
 
 
 [6]. 100110 - 11001
-
-100110 (38 dalam desimal)
-
-11001 (25 dalam desimal)
 
 = 01101
 
@@ -120,10 +112,6 @@ bilangan Desimal:
 
 [7]. 110 × 101
 
-110 (6 dalam desimal)
-
-101 (5 dalam desimal)
-
 = 11110
 
 bilangan Desimal:
@@ -134,10 +122,6 @@ bilangan Desimal:
 
 
 [8]. 1011 × 110
-
-1011 (11 dalam desimal)
-
-110 (6 dalam desimal)
 
 = 1000010
 
