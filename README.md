@@ -12,7 +12,7 @@ Mata Kuliah : Arsitektur Dan Organisasi komputer
 
 Penyelesaian:
 
-penjumlahan biner
+# penjumlahan biner
 
 [1] . 1101 = 13
 
@@ -73,7 +73,7 @@ bilangan desimal:
 = 783
 
 
-pengurangan biner
+# pengurangan biner
 
 [4]. Bilangan biner:
 
@@ -116,7 +116,7 @@ bilangan Desimal:
 
 = 13
 
-Perkalian Biner
+# Perkalian Biner
 
 [7]. 110 × 101
 
